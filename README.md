@@ -169,4 +169,8 @@ MIT License
 
 ## Author
 
+João Rodrigues Panão de Oliveira
+
+Living in Brazil!
+
 Created for the micro editor community.
