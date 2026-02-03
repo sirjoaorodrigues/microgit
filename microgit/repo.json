@@ -1,0 +1,10 @@
+{
+  "Name": "microgit",
+  "Description": "Plugin para exibir informações do Git no micro editor",
+  "Website": "https://github.com/seu-usuario/microgit",
+  "Install": "https://github.com/seu-usuario/microgit",
+  "Version": "1.0.0",
+  "Require": {
+    "micro": ">=2.0.0"
+  }
+}
