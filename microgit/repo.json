@@ -1,6 +1,6 @@
 {
   "Name": "microgit",
-  "Description": "Plugin para exibir informações do Git no micro editor",
+  "Description": "Git integration with status in statusline, gutter indicators, blame support, and git commands",
   "Website": "https://github.com/sirjoaorodrigues/microgit",
   "Install": "https://github.com/sirjoaorodrigues/microgit/",
   "Version": "1.0.1",
